@@ -1,7 +1,6 @@
 # 📄 Summary of Findings – Student Engagement Data Analysis
 
 ## Overview
-
 This analysis explores student engagement on a learning platform between 2021 and 2022 using metrics such as minutes watched. The data was split by plan type (free vs paid) and location (US, India, etc.).
 
 ---
@@ -24,6 +23,8 @@ This analysis explores student engagement on a learning platform between 2021 an
   - **p-value < 0.05**
 - ✅ **Conclusion**: Reject H₀ → Paid users watch significantly more than free users.
 
+[View PDF](./images/inferential_statistics_1.pdf)
+
 ---
 
 ### 🌍 Country Comparison (India vs US, Free Plan Only - 2022)
@@ -36,6 +37,7 @@ This analysis explores student engagement on a learning platform between 2021 an
   - **Critical t-value = 1.65**
 - ❌ **Conclusion**: Fail to reject H₀ → No significant difference in engagement between the US and India for free-plan students in 2022.
 
+[View PDF](./images/inferential_statistics_2.pdf)
 ---
 
 ## Final Insights
