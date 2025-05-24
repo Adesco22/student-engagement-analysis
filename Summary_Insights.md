@@ -11,8 +11,8 @@ This analysis explores student engagement on a learning platform between 2021 an
 ### 🧮 Descriptive Statistics
 - **Mean & Median (Free Plan)**: Slight increase in 2022.
 - **Standard Deviation (Free & Paid)**: Remained high, indicating spread in engagement.
-<embed src="./images/summary_statistics_1.pdf" type="application/pdf" width="600" height="400">
-[View PDF](./images/summary_statistics_1.pdf)
+
+[View PDF](../summary_statistics_1.pdf)
 
 
 ---
