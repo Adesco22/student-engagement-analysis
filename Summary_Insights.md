@@ -37,8 +37,8 @@ This analysis explores student engagement on a learning platform between 2021 an
   - **Critical t-value = 1.65**
 - ❌ **Conclusion**: Fail to reject H₀ → No significant difference in engagement between the US and India for free-plan students in 2022.
 
-[View PDF](./images/inferential_statistics_2.pdf)
----
+[View PDF](./images/inferential_statistics_1.pdf)
+--
 
 ## Final Insights
 
